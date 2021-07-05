@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ikheyfets, a CS M.S. candidate at BU!
+- 👋 Hi, I’m Igor Kheyfets, a CS M.S. candidate at BU!
 - 👀 I’m interested in data scince, robotics and automation
 - 🌱 I’m currently learning R and Kivy for Python
 - 💞️ I’m looking to collaborate on data mining projects
