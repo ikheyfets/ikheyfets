@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Igor Kheyfets, a CS M.S. candidate at BU!
+- 👋 Hi, I’m Igor Kheyfets, a recent CS M.S. graduate from BU!
 - 👀 I’m interested in machine learning , data analytics, visualization and datbase management.
-- 🌱 I’m currently learning R and Python ML libraries (keras, tensorflow, scikit-learn). Working on building small neural nets, hmu if you want to talk about that!
-- 💞️ I’m looking to collaborate on ML projects, specifically neural nets.
+- 🌱 I'm currently building a full-stack ML application and learning more about TFX and RNNs.
+- 💞️ I’m looking to collaborate on ML and full-stack projects!
 - 📫 You can reach me at kheyfets@bu.edu
 
 <!---
