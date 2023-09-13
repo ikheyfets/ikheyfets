@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Igor Kheyfets, a recent CS M.S. graduate from BU!
-- 👀 I’m interested in machine learning , data analytics, visualization and datbase management.
-- 🌱 I'm currently building a full-stack ML application and learning more about TFX and RNNs.
-- 💞️ I’m looking to collaborate on ML and full-stack projects!
-- 📫 You can reach me at kheyfets@bu.edu
+- 👋 Hi there! I’m Igor Kheyfets, a Chemical Engineer turned Software Engineer with a passion for Machine Learning driven Application Development and all things Data. 
+- 🌱 I'm currently building a full-stack ML application and learning more about TFX and RNNs. Send me a note if you'd like to collaborate or discuss recommendation systems. 
+- 📫 You can reach me at i.a.kheyfets@gmail.com
 
 <!---
 ikheyfets/ikheyfets is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
